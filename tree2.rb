@@ -33,11 +33,6 @@ class Queue
 end
 
 
-def bfs(node, search)
-	
-end
-
-
 #queue test
 queue = Queue.new()
 queue.push(11)
